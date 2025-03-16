@@ -54,5 +54,14 @@ img {
     background-color: #1F51FF;
     padding: 15px ;
     border: 0;
+    width: 200px;
+    height: 45px;
     color: aliceblue;
+    border-radius: 3px;
  }
+
+ #signup-btn:hover{
+    background-color: #222222;
+ }
+
+ 
