@@ -1,2 +1,2 @@
 # zerodha-Clone
-just practicing some js
+This projects is only for educational purpose. I uploaded it here to show my programming skills.
