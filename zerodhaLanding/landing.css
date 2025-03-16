@@ -1,0 +1,58 @@
+
+nav{
+    background-repeat: no-repeat;
+}
+
+ul{
+    margin-left: 50px;
+    margin-right: 80px;
+}
+li{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: #808080;
+    float: right;
+    display: block;
+    padding: 25px;
+}
+
+li a {
+    padding: 14px 16px;
+}
+
+li a:hover{
+    color: blue;
+} 
+
+#mainLogo{
+    border: 1px;
+    padding: 5px;
+    width: 150px;
+}
+
+#landingImg{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+  }
+img {
+    width:50%;
+}
+
+#middle{
+    color: #808080;
+    text-align: center;
+}
+ div h1{
+    color: #222222;
+ }
+
+ button{
+    background-color: #1F51FF;
+    padding: 15px ;
+    border: 0;
+    color: aliceblue;
+ }
